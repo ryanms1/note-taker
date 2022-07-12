@@ -1,9 +1,16 @@
 # Note Taker app
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  
+  ![image](https://user-images.githubusercontent.com/101146873/178379383-7702a659-79e1-47b6-9f16-3dcc50492195.png)
+
+  
+  ![image](https://user-images.githubusercontent.com/101146873/178379333-cb32d97f-8030-47e1-9a04-31af25c79b03.png)
+
 
   ## Description
 
   Uses express backend to allow user to add notes and view them or delete them as they please.
+  Link to app: https://ucb-note-taker10.herokuapp.com/
 
   ## Table of Contents
 
